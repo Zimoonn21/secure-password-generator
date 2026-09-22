@@ -21,7 +21,7 @@ root = tk.Tk()
 root.title("Secure Password Generator")
 root.geometry("400x320")
 root.resizable(False, False)
-root.config(bg="#1f2428")  # Tło okna (GitHub)
+root.config(bg="#1f2428")
 
 tk.Label(
     root,
