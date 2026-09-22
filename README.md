@@ -12,7 +12,7 @@ This project was inspired by my community volunteer work conducting cybersecurit
 
 ## How to Run
 1. Make sure you have **Python 3** installed on your computer.
-2. Download or clone the `main.py` file.
+2. Download or clone the `secure-password-generator.py` file.
 3. Run the script using your terminal or IDE:
    ```bash
    secure-password-generator.py
