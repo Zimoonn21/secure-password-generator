@@ -15,4 +15,4 @@ This project was inspired by my community volunteer work conducting cybersecurit
 2. Download or clone the `main.py` file.
 3. Run the script using your terminal or IDE:
    ```bash
-   python main.py
+   secure-password-generator.py
